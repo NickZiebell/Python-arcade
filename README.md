@@ -15,6 +15,7 @@ Difficulty levels:
 to describe different difficulty settings.
 Educational value:
 vocabulary building and word recognition skills.
+
 Pong
 Remake of classic Atari game based on table tennis
 Single player with computer
